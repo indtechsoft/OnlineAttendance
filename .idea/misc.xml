@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/bg.xml" value="0.221" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/blue_add.xml" value="0.126" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/blue_bend.xml" value="0.225" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/blue_bg.xml" value="0.221" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/blue_circle.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/button_pressed.xml" value="0.108" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/calender.xml" value="0.1175" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/circle.xml" value="0.221" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/dark_grey_bg.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/drawer_item.xml" value="0.126" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/drawer_selected_item.xml" value="0.126" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/edit_bg.xml" value="0.221" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/edit_corners.xml" value="0.1965" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/empty_white_bg.xml" value="0.167" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/green_bg.xml" value="0.1335" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/grey_bg.xml" value="0.2215" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.225" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.225" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.225" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.221" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml" value="0.225" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.225" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/lock_blue.xml" value="0.1335" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/login_bg.xml" value="0.1335" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/mail_blue.xml" value="0.1655" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/peacockblue_circle.xml" value="0.167" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/power_blue.xml" value="0.225" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/progressbar.xml" value="0.1335" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/sample_bg.xml" value="0.2215" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/state_pressed.xml" value="0.167" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/task.xml" value="0.1335" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/view_bend.xml" value="0.149" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/visible_blue.xml" value="0.1335" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/white_bg.xml" value="0.218" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/drawable/whitee_bg.xml" value="0.2215" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/font/nunito_semibold.xml" value="0.18896964514749892" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_confirm.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_dashboard.xml" value="0.18" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_dummy.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_get_started.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_history.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_image_capture.xml" value="0.15" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_lead.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_lead_information.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_meeting.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_notification.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_splash.xml" value="0.28815733219324496" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_task.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_task_assign.xml" value="0.21" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activity_update_task.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/activitylogin.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/alert_dailogbox.xml" value="0.16" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/choose_image.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/edittext_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/fragment_dashboard.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/fragment_main.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/fragment_notifications.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/history1_recycle.xml" value="0.28730226592560926" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/history_recycle.xml" value="0.16" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/lead_information_recycle.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/loading.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/location_popup.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/meeting_entries.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/notification_recycle.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/sample.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/spinner_text.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/task_assign_recycle.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/task_recycle.xml" value="0.21" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/layout/time_popup.xml" value="0.22" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/menu/history_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/OnlineAttendance/app/src/main/res/menu/main_menu.xml" value="0.21" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
